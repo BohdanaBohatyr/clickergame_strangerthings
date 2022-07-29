@@ -24,5 +24,5 @@ function validate() {
      alert('Uncorrect e-mail')
      return false;
 }
-    window.location.href = '/game/index_game.html';
+    window.location.href = 'game/index_game.html';
 }
